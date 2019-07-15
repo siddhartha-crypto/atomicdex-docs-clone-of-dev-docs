@@ -12,7 +12,7 @@ Users who are not interested in development-related activities, but are searchin
 
 #### Conceptual Overview
 
-The [<b>AtomicDEX Tutorials</b>](../basic-docs/atomicdex/atomicdex-tutorials/introduction-to-atomicdex.md) section contains a thorough conceptual explanation of AtomicDEX.
+The [<b>AtomicDEX Tutorials</b>](../../../basic-docs/atomicdex/atomicdex-tutorials/introduction-to-atomicdex.md) section contains a more thorough conceptual explanation of AtomicDEX.
 
 #### About AtomicDEX Setup
 
