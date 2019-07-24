@@ -13,7 +13,7 @@ var sidebar = [
             children: [
                 [
                     "/basic-docs/atomicdex/atomicdex-setup/get-started-atomicdex.md",
-                    "Getting Started with AtomicDEX"
+                    "Installing AtomicDEX Software (MM2)"
                 ],
             ],
         },
@@ -28,6 +28,10 @@ var sidebar = [
                 [
                     "/basic-docs/atomicdex/atomicdex-tutorials/atomicdex-walkthrough.md",
                     "AtomicDEX Walkthrough"
+                ],
+                [
+                    "/basic-docs/atomicdex/atomicdex-tutorials/how-to-become-a-liquidity-provider.md",
+                    "How to Become a Liquidity Provider"
                 ],
                 [
                     "/basic-docs/atomicdex/atomicdex-tutorials/additional-information-about-atomicdex.md",
